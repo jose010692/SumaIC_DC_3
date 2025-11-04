@@ -1,0 +1,24 @@
+{
+  "name": "sumaic_dc_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose010692/SumaIC_DC_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jose010692/SumaIC_DC_3/issues"
+  },
+  "homepage": "https://github.com/jose010692/SumaIC_DC_3#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
